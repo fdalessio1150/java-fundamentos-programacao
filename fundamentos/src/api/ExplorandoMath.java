@@ -13,6 +13,7 @@ public class ExplorandoMath {
 		System.out.println(Math.floor(6.5));
 		System.out.println(Math.random()*100);
 		
+		
 	}
 
 }
